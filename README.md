@@ -12,7 +12,7 @@
 
 ## Tavla
 
-Länk till Kanban-tavlan: (Lägg in länk här)
+[Öppna vår Kanban-tavla i Google Kalkylark](https://docs.google.com/spreadsheets/d/1Imy4JgKwzBOs7VdNj7x8zUDSQo3gbIQnSMeGa6dgVLE/edit?gid=701821243#gid=701821243)
 
 Kolumner: Backlog → Att göra (sprint) → Pågår → Granskning → Klart
 

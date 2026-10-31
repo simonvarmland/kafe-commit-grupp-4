@@ -22,8 +22,8 @@ Kolumner: Backlog → Att göra (sprint) → Pågår → Granskning → Klart
 
 ## User stories
 
-Varje person skriver minst två egna user stories.
-Fördelning och acceptanskriterier fastställs på måndag.
+Varje gruppmedlem ansvarar för minst två egna user stories.
+Varje story kopplas till ett unikt acceptanskriterium och en tillhörande funktion.
 
 Mall:
 - ID: US-X
@@ -32,9 +32,21 @@ Mall:
 - Ansvarig: Namn
 - Story: Som en [roll] vill jag [funktion] för att [syfte].
 
-### Simon
-- US-3: (Fyll i)
-- US-7: (Fyll i)
+
+### Simon Svensson
+
+**US-3 · AK-3 · funktion03 · Simon Svensson**
+
+Som en besökare vill jag se kaféets adress för att enkelt kunna hitta dit.
+
+**Acceptanskriterium:** Sidan visar exakt `Adress: Gitgatan 1`.
+
+**US-7 · AK-7 · funktion07 · Simon Svensson**
+
+Som en besökare med nötallergi vill jag kunna se information om nötter för att avgöra om utbudet passar mig.
+
+**Acceptanskriterium:** Sidan visar exakt `Nötter: nej`.
+
 
 ### Rasmus
 - US-4: (Fyll i)

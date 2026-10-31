@@ -48,9 +48,19 @@ Som en besökare med nötallergi vill jag kunna se information om nötter för a
 **Acceptanskriterium:** Sidan visar exakt `Nötter: nej`.
 
 
-### Rasmus
-- US-4: (Fyll i)
-- US-8: (Fyll i)
+### Rasmus Mattsson
+
+**US-4 · AK-4 · funktion04 · Rasmus Mattsson**
+
+Som en besökare vill jag kunna se vad kaffet kostar för att veta vad jag ska betala.
+
+**Acceptanskriterium:** Sidan visar exakt `Kaffe: 25 kr`.
+
+**US-8 · AK-8 · funktion08 · Rasmus Mattsson**
+
+Som besökare vill jag kunna se om jag får parkera utanför och ifall det kostar, för att enkelt kunna lösa parkering.
+
+**Acceptanskriterium:** Sidan visar exakt `Parkering: 2 timmar gratis`.
 
 ### Liam
 - US-5: (Fyll i)

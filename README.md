@@ -3,7 +3,8 @@
 
 ## Roller
 
-- Scrum Master: (Bestäms på måndag)
+- Scrum Master: Rasmus Mattsson
+- Dokumentationsansvarig: Simon Svensson
 - Utvecklare:
   - Simon Svensson
   - Rasmus Mattsson
@@ -18,7 +19,22 @@ Kolumner: Backlog → Att göra (sprint) → Pågår → Granskning → Klart
 
 ## Sprintmål
 
-(Fyll i ett gemensamt sprintmål på måndag.)
+När sprinten är klar ska Kafé Commits startsida visa tydlig information om adress, priser, wifi, nötallergi, parkering och veckans erbjudande, så att besökarna enkelt hittar den information de behöver.
+
+## Sprintplanering
+
+### Måndag 2 november kl. 10.00
+
+**Deltagare:** Simon Svensson, Rasmus Mattsson och Liam Siljelind.
+
+**Frånvarande:** Kasper Johansson.
+
+- Rasmus bekräftades som Scrum Master.
+- Simon ansvarar för att sammanställa README.
+- Första planerade uppgifter: Simon US-3, Rasmus US-4 och Liam US-5.
+- Gruppen beslutade att påbörja sina första user stories redan på måndagen eftersom GitHub-repot, Kanban-tavlan och dokumentationsstrukturen var förberedda sedan tidigare.
+- Kasper har ännu inte svarat på kontaktförsök eller deltagit i planeringen. Gruppen fortsätter med tillgängliga medlemmar och kontaktar Linus om situationen.
+
 
 ## User stories
 
@@ -62,42 +78,60 @@ Som besökare vill jag kunna se om jag får parkera utanför och ifall det kosta
 
 **Acceptanskriterium:** Sidan visar exakt `Parkering: 2 timmar gratis`.
 
-### Liam
-- US-5: (Fyll i)
-- US-9: (Fyll i)
+### Liam Siljelind
+
+**US-5 · AK-5 · funktion05 · Liam Siljelind**
+
+Som en kafégäst vill jag se namnet på kaféets wifi för att kunna ansluta till nätverket.
+
+**Acceptanskriterium:** Sidan visar exakt `Wifi: kafe-gast`.
+
+**US-9 · AK-9 · funktion09 · Liam Siljelind**
+
+Som en kafégäst vill jag se veckans erbjudande för att veta vad jag kan köpa till erbjudandepris.
+
+**Acceptanskriterium:** Sidan visar exakt `Veckans erbjudande: kaffe + bulle 40 kr`.
 
 ### Kasper
 - US-6: (Fyll i)
 - US-10: (Fyll i)
 
+
 ## Daily standups
 
-### Tisdag 3 november – Daily 1
+### Måndag 2 november kl. 10.00 – Extra avstämning
 
-Deltagare: (Fyll i efter mötet)
+**Deltagare:** Simon, Rasmus och Liam.
 
-- Simon: Gjort / Ska göra / Hinder
-- Rasmus: Gjort / Ska göra / Hinder
-- Liam: Gjort / Ska göra / Hinder
-- Kasper: Gjort / Ska göra / Hinder
+- **Simon:** Förberett GitHub-repo, README, Kanban-tavla och egna user stories. Planerad uppgift: US-3. Inga egna hinder.
+- **Rasmus:** Förberett sina två user stories och deltagit i planeringen. Planerad uppgift: US-4. Inga egna hinder.
+- **Liam:** Förberett sina två user stories och deltagit i planeringen. Planerad uppgift: US-5. Inga egna hinder.
 
-### Onsdag 4 november – Daily 2
+**Gemensamt hinder:** Kasper har ännu inte gått att nå och deltog inte i mötet.
 
-Deltagare: (Fyll i efter mötet)
+### Tisdag 3 november kl. 10.00 – Daily 1
 
-- Simon: Gjort / Ska göra / Hinder
-- Rasmus: Gjort / Ska göra / Hinder
-- Liam: Gjort / Ska göra / Hinder
-- Kasper: Gjort / Ska göra / Hinder
+**Deltagare:** (Fyll i efter mötet)
 
-### Torsdag 5 november – Daily 3
+- Simon: Gjort / Gör / Hinder
+- Rasmus: Gjort / Gör / Hinder
+- Liam: Gjort / Gör / Hinder
 
-Deltagare: (Fyll i efter mötet)
+### Onsdag 4 november kl. 10.00 – Daily 2
 
-- Simon: Gjort / Ska göra / Hinder
-- Rasmus: Gjort / Ska göra / Hinder
-- Liam: Gjort / Ska göra / Hinder
-- Kasper: Gjort / Ska göra / Hinder
+**Deltagare:** (Fyll i efter mötet)
+
+- Simon: Gjort / Gör / Hinder
+- Rasmus: Gjort / Gör / Hinder
+- Liam: Gjort / Gör / Hinder
+
+### Torsdag 5 november kl. 10.00 – Daily 3
+
+**Deltagare:** (Fyll i efter mötet)
+
+- Simon: Gjort / Gör / Hinder
+- Rasmus: Gjort / Gör / Hinder
+- Liam: Gjort / Gör / Hinder
 
 ## Retrospektiv
 

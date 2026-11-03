@@ -109,13 +109,16 @@ Som en kafégäst vill jag se veckans erbjudande för att veta vad jag kan köpa
 
 **Gemensamt hinder:** Kasper har ännu inte gått att nå och deltog inte i mötet.
 
+
 ### Tisdag 3 november kl. 10.00 – Daily 1
 
-**Deltagare:** (Fyll i efter mötet)
+**Deltagare:** Simon, Rasmus och Liam.
 
-- Simon: Gjort / Gör / Hinder
-- Rasmus: Gjort / Gör / Hinder
-- Liam: Gjort / Gör / Hinder
+- **Simon:** Implementerat US-3 och fått sin PR mergad. Granskat och godkänt Liams US-5. Planerad uppgift: Dokumentera dagens Daily i README. Inga egna hinder.
+- **Rasmus:** Implementerat US-4 och öppnat PR. Inväntar Liams granskning och godkännande.
+- **Liam:** Implementerat US-5 och fått sin PR mergad. Planerad uppgift: Granska och godkänna Rasmus PR om allt stämmer.
+
+**Nästa steg:** Slutföra återstående PR och fortsätta med nästa user stories på onsdagen.
 
 ### Onsdag 4 november kl. 10.00 – Daily 2
 

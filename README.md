@@ -122,11 +122,13 @@ Som en kafégäst vill jag se veckans erbjudande för att veta vad jag kan köpa
 
 ### Onsdag 4 november kl. 10.00 – Daily 2
 
-**Deltagare:** (Fyll i efter mötet)
+**Deltagare:** Simon, Rasmus och Liam.
 
-- Simon: Gjort / Gör / Hinder
-- Rasmus: Gjort / Gör / Hinder
-- Liam: Gjort / Gör / Hinder
+- **Simon:** Dokumenterat tisdagens Daily i README. Planerad uppgift: US-7 (nötallergi). Inga egna hinder.
+- **Rasmus:** Fått US-4 granskad, godkänd och mergad. Planerad uppgift: US-8 (parkering). Inga egna hinder.
+- **Liam:** Granskat, godkänt och mergat Rasmus US-4. Planerad uppgift: US-9 (veckans erbjudande). Inga egna hinder.
+
+**Nästa steg:** Implementera våra andra user stories i separata branches och öppna Pull Requests för granskning.
 
 ### Torsdag 5 november kl. 10.00 – Daily 3
 

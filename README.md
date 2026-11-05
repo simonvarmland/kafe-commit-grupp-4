@@ -92,9 +92,9 @@ Som en kafégäst vill jag se veckans erbjudande för att veta vad jag kan köpa
 
 **Acceptanskriterium:** Sidan visar exakt `Veckans erbjudande: kaffe + bulle 40 kr`.
 
-### Kasper
-- US-6: (Fyll i)
-- US-10: (Fyll i)
+### Kasper Johansson
+
+Kasper deltog inte i sprinten. US-6 och US-10 genomfördes därför inte.
 
 
 ## Daily standups
@@ -180,13 +180,14 @@ En merge-konflikt uppstår när Git inte automatiskt kan slå ihop ändringar, t
 Varje person skriver 2–3 meningar om vad de lärt sig och tar med sig till nästa gång.
 
 ### Simon Svensson
-(Simon skriver sin reflektion här.)
+Jag tar framför allt med mig hur viktigt det är att tidigt stämma av vilka som kan delta och att planera arbetet så att det kan fortsätta även om någon inte går att få kontakt med. Jag upplevde också hur mycket en tydlig struktur och ansvarsfördelning underlättar samarbetet, eftersom alla vet vad som förväntas av dem. Det är något jag vill fortsätta prioritera när jag arbetar med Git och Scrum i framtida projekt.
 
 ### Rasmus Mattsson
-(Rasmus skriver sin reflektion här.)
+Att praktiskt få tillämpa arbetssättet med Git tillsammans med en grupp har gett mig en betydligt bättre förståelse för versionshantering i projekt. Det har varit både roligt och givande att testa Scrum, då det skapat tät kommunikation och bra interaktion i teamet. Till nästa gång tar jag framför allt med mig värdet av tydlig dokumentation som skapar struktur samt hur dagliga standups och sprintreflektioner underlättar arbetet.
 
 ### Liam Siljelind
-(Liam skriver sin reflektion här.)
+Att jobba med egna user stories och granska varandras pull requests gav mig en bättre förståelse för hur vi använder Git för att utveckla ett projekt tillsammans. Det var roligt och lärorikt att testa Scrum, och våra dagliga avstämningar gjorde det lättare att hålla koll på arbetet och få hjälp vid behov. Till nästa gång tar jag med mig värdet av tydlig dokumentation och reflektion över vad som fungerade bra.
+
 
 ### Kasper Johansson
-(Kasper skriver sin reflektion här.)
+Ingen personlig reflektion har lämnats in.

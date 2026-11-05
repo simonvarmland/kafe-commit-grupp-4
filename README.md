@@ -33,7 +33,7 @@ När sprinten är klar ska Kafé Commits startsida visa tydlig information om ad
 - Simon ansvarar för att sammanställa README.
 - Första planerade uppgifter: Simon US-3, Rasmus US-4 och Liam US-5.
 - Gruppen beslutade att påbörja sina första user stories redan på måndagen eftersom GitHub-repot, Kanban-tavlan och dokumentationsstrukturen var förberedda sedan tidigare.
-- Kasper har ännu inte svarat på kontaktförsök eller deltagit i planeringen. Gruppen fortsätter med tillgängliga medlemmar och kontaktar Linus om situationen.
+- Kasper har ännu inte svarat på kontaktförsök eller deltagit i planeringen. Gruppen fortsatte med tillgängliga medlemmar och Linus informerades den 2 november.
 
 
 ## User stories
@@ -132,20 +132,20 @@ Som en kafégäst vill jag se veckans erbjudande för att veta vad jag kan köpa
 
 ### Torsdag 5 november kl. 10.00 – Daily 3
 
-**Deltagare:** (Fyll i efter mötet)
+**Deltagare:** Simon, Rasmus och Liam.
 
-- Simon: Gjort / Gör / Hinder
-- Rasmus: Gjort / Gör / Hinder
-- Liam: Gjort / Gör / Hinder
+- **Simon:** Färdigställt US-7 och fått sin PR mergad. Planerad uppgift: Sammanställa teorisvar, retrospektiv och personliga reflektioner i README. Inga hinder.
+- **Rasmus:** Färdigställt US-8 och fått sin PR mergad. Planerad uppgift: Delta i retrospektiven och gå igenom teorisvaren samt skriva personlig reflektion. Inga hinder.
+- **Liam:** Färdigställt US-9 och fått sin PR mergad. Planerad uppgift: Delta i retrospektiven och gå igenom teorisvaren samt skriva personlig reflektion. Inga hinder.
+
+**Nästa steg:** Genomföra retrospektiven, färdigställa teorisvaren och de personliga reflektionerna samt kontrollera och pusha README.
 
 ## Retrospektiv
 
-Genomförs tillsammans på torsdag.
-
-- Start: (Vad vill vi börja göra?)
-- Stop: (Vad fungerade dåligt?)
-- Continue: (Vad fungerade bra?)
-- Konkret förbättring: (Vad tar vi med oss?)
+- **Start:** Koda tillsammans, diskutera koden vi skriver. 
+- **Stop:** Vi upplevde inga problem i samarbetet mellan oss som deltog och hittade inget särskilt vi behövde sluta med.  
+- **Continue:** Fortsätta med tydlig ansvarsfördelning, punktliga möten, bra kommunikation och eget ansvar.
+- **Konkret förbättring:** Sätta en tydlig deadline för varje Pull Request, så att alla vet när den förväntas vara klar.
 
 ## Teorifrågor
 
@@ -155,25 +155,25 @@ Besvara gemensamt, cirka 2–4 meningar per fråga.
 
 Vad är agil utveckling, och vad i vårt arbetssätt den här veckan var agilt?
 
-(Skriv vårt svar här.)
+Agil utveckling innebär att arbeta i mindre steg, samarbeta och kunna anpassa arbetet efter behov. Vi arbetade agilt genom att planera en kort sprint, dela upp arbetet i user stories och använda en Kanban-tavla för att följa våra uppgifter. Under våra dailies stämde vi av hur arbetet gick och om någon hade stött på hinder.
 
 ### 2. Scrum
 
 Vilka Scrum-roller och moment använde vi? Hur fungerade de i gruppen?
 
-(Skriv vårt svar här.)
+Vi hade Rasmus som Scrum Master och arbetade tillsammans som utvecklare, med Simon som dokumentationsansvarig. Vi använde sprintplanering, dagliga avstämningar och ett retrospektiv för att planera och följa upp arbetet. Samarbetet mellan oss som deltog fungerade väldigt bra, med tydlig ansvarsfördelning, punktliga möten och god kommunikation.
 
 ### 3. Git-flödet
 
 Hur gick en user story från Att göra till Klart, med branch, Pull Request, review och merge?
 
-(Skriv vårt svar här.)
+Vi flyttade vår user story från Att göra till Pågår på Kanban-tavlan och skapade en egen branch från den senaste versionen av main. Sedan ändrade vi rätt funktion i index.html, gjorde en commit, pushade och öppnade en Pull Request mot main. En annan gruppmedlem granskade koden, lämnade en kommentar och godkände ändringen innan den mergades via GitHub. När ändringen fanns i main flyttades uppgiften till Klart.
 
 ### 4. Merge-konflikter
 
 Vad är en merge-konflikt, när uppstår den och hur löser man den på GitHub? Ge ett exempel från index.html och beskriv en eventuell verklig konflikt.
 
-(Skriv vårt svar här.)
+En merge-konflikt uppstår när Git inte automatiskt kan slå ihop ändringar, till exempel när två personer ändrar samma rad i olika grenar. I index.html kan en person ändra en funktion till function funktion05() { return "Wifi: kafe-gast"; } och en annan ändra returvärdet till "Wifi: kafe-gest". På GitHub löser man konflikten genom att öppna sin pull request, klicka på Resolve conflicts, välja eller kombinera koden, ta bort konfliktmarkeringarna och sedan välja Mark as resolved och Commit merge.
 
 ## Personlig reflektion
 
